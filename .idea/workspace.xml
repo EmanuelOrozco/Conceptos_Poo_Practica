@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ba2d46c-9f99-4ec0-9b1a-1e864b3b10aa" name="Changes" comment="Add practica 3">
-      <change afterPath="$PROJECT_DIR$/Ejercicios/practicas_conceptos4.py" afterDir="false" />
+    <list default="true" id="3ba2d46c-9f99-4ec0-9b1a-1e864b3b10aa" name="Changes" comment="Add practica 4 and progress, add practicas5 file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/practicas_conceptos5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/practicas_conceptos5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708374182507</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add practica 4 and progress, add practicas5 file">
+      <option name="closed" value="true" />
+      <created>1708374554691</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708374554691</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +124,7 @@
     <MESSAGE value="Add practica 1" />
     <MESSAGE value="Add practica 2" />
     <MESSAGE value="Add practica 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add practica 3" />
+    <MESSAGE value="Add practica 4 and progress, add practicas5 file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add practica 4 and progress, add practicas5 file" />
   </component>
 </project>
